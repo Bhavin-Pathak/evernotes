@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evernotes/static/css/main.dd2c80f3.css",
+    "main.js": "/evernotes/static/js/main.57f617f3.js",
+    "static/js/453.068b259a.chunk.js": "/evernotes/static/js/453.068b259a.chunk.js",
+    "index.html": "/evernotes/index.html",
+    "main.dd2c80f3.css.map": "/evernotes/static/css/main.dd2c80f3.css.map",
+    "main.57f617f3.js.map": "/evernotes/static/js/main.57f617f3.js.map",
+    "453.068b259a.chunk.js.map": "/evernotes/static/js/453.068b259a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2c80f3.css",
+    "static/js/main.57f617f3.js"
+  ]
+}
