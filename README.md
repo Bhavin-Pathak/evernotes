@@ -6,9 +6,6 @@
 
 You can view the live demo of this app here: [evernotes Live](https://bhavin-pathak.github.io/evernotes/)
 
-## 🖼️ Screenshots
-
-> *Include some screenshots of the app here to provide a preview of the user interface.*
 
 ## 🔧 Features
 
