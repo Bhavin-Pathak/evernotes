@@ -2,7 +2,7 @@
   "name": "evernotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhavin-pathak.github.io/Evernotes",
+  "homepage": "https://bhavin-pathak.github.io/evernotes",
   "dependencies": {
     "lucide-react": "^0.511.0",
     "react": "^19.1.0",
