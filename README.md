@@ -12,7 +12,6 @@ You can view the live demo of this app here: [evernotes Live](https://bhavin-pat
 - Save data using local browser storage.
 - Responsive and user-friendly interface.
 - No backend server required.
-- Easy deployment using Docker.
 
 ## 🛠️ Tech Stack
 
