@@ -6,7 +6,6 @@
 
 You can view the live demo of this app here: [evernotes Live](https://bhavin-pathak.github.io/evernotes/)
 
-
 ## 🔧 Features
 
 - Create, edit, and delete notes.
@@ -19,8 +18,6 @@ You can view the live demo of this app here: [evernotes Live](https://bhavin-pat
 
 - **React.js** — For building the user interface.
 - **Tailwind CSS** — For styling.
-- **Docker** — For containerizing the application.
-- **Nginx** — For serving static files in production.
 - **LocalStorage** — For saving data in the browser.
 
 ## 📦 Installation and Running
@@ -28,36 +25,25 @@ You can view the live demo of this app here: [evernotes Live](https://bhavin-pat
 ### For Local Running:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Bhavin-Pathak/evernotes.git
    cd evernotes
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Start the development server:
+
    ```bash
    npm start
    ```
 
 4. Open in your browser: [http://localhost:3000](http://localhost:3000)
-
-### Using Docker:
-
-1. Build the Docker image:
-   ```bash
-   docker build -t evernotes .
-   ```
-
-2. Run the Docker container:
-   ```bash
-   docker run -d -p 80:80 evernotes
-   ```
-
-3. Open in your browser: [http://localhost:3000](http://localhost:3000)
 
 ## 🗂️ Project Structure
 
@@ -69,9 +55,6 @@ evernotes/
 │   ├── hooks/
 |   ├── utils/
 │   └── App.js
-├── Dockerfile
-├── docker-compose.yml
-├── nginx.conf
 ├── tailwind.config.js
 └── package.json
 ```
@@ -80,8 +63,6 @@ evernotes/
 
 - For support, email bhavinpathak29@gmail.com github [Bhavin-Pathak](https://github.com/Bhavin-Pathak)
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
