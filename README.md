@@ -2,9 +2,7 @@
 
 **Evernotes** is a lightweight and user-friendly note-taking app that allows users to easily create, edit, and delete notes. It is entirely frontend-based and does not require any backend server.
 
-## 🚀 Demo
-
-You can view the live demo of this app here: [evernotes Live](https://bhavin-pathak.github.io/evernotes/)
+![Evernotes App Screenshot](preview/image.png)
 
 ## 🔧 Features
 
@@ -44,24 +42,29 @@ You can view the live demo of this app here: [evernotes Live](https://bhavin-pat
 
 4. Open in your browser: [http://localhost:3000](http://localhost:3000)
 
-## 🗂️ Project Structure
+## 📞 Support
 
-```
-evernotes/
-├── public/
-├── src/
-│   ├── components/
-│   ├── hooks/
-|   ├── utils/
-│   └── App.js
-├── tailwind.config.js
-└── package.json
-```
+If you have any questions or need help, please:
 
-## Support
+1. Check the [Issues](https://github.com/Bhavin-Pathak/evernotes/issues) page
+2. Create a new issue if your problem isn't already reported
+3. Contact: bhavinpathak29@gmail.com
 
-- For support, email bhavinpathak29@gmail.com github [Bhavin-Pathak](https://github.com/Bhavin-Pathak)
+## 📄 License
 
-## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+6. Follow React best practices
+7. Use functional components with hooks
+8. Write clean, commented code
+9. Add tests for new features
+10. Update documentation
+
+## ⭐ If you found this project helpful, please give it a star!
